@@ -1,0 +1,30 @@
+
+        * {
+            font-family: 'Nunito', sans-serif;
+            // background-color: #111827 ;
+            margin: 0;
+            padding: 0;
+          
+        }
+
+        body{
+            min-height: 120vh;
+            padding-bottom: 100px;
+        }
+
+        .row{
+            justify-content: center;
+            margin: 0;
+            gap: 20px;
+
+        }
+
+        .card{
+            padding: 0;
+        }
+
+         .btn-primary{
+            background-color: black;
+        }
+       
+      
